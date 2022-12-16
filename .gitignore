@@ -1,0 +1,11 @@
+.env
+.vscode
+
+build/
+node_modules/
+
+*.pyc
+venv/
+
+**/migrations/*
+!**/migrations/__init__.py
